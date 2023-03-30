@@ -14,3 +14,5 @@ SELECT street_address,POSTAL_CODE
 FROM  LOCATIONS;
 SELECT distinct FIRST_NAME from EMPLOYEES;
 --remove duplicates
+-- remove
+
